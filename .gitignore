@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cucumber reports
+reports/
+
+# Environment variables
+.env
+
+# Selenium drivers
+*.exe
+*.dmg
+*.zip
+
+# VS Code settings
+.vscode/
